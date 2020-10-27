@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<!--
+Template Name: E-Merge
+
+<html>
+<head>
+<title>E-Merge</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- Top Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div id="logo" class="fl_left">
+        <h1><a href="index.html">E-Merge</a></h1>
+      </div>
+      <nav id="mainav" class="fl_right">
+        <ul class="clear">
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a class="drop" href="#">Pages</a>
+            <ul>
+              <li><a href="pages/gallery.html">Gallery</a></li>
+              <li><a href="pages/full-width.html">Full Width</a></li>
+              <li><a href="pages/sidebar-left.html">Sidebar Left</a></li>
+              <li><a href="pages/sidebar-right.html">Sidebar Right</a></li>
+              <li><a href="pages/basic-grid.html">Basic Grid</a></li>
+            </ul>
+          </li>
+          <li><a class="drop" href="#">Dropdown</a>
+            <ul>
+              <li><a href="#">Level 2</a></li>
+              <li><a class="drop" href="#">Level 2 + Drop</a>
+                <ul>
+                  <li><a href="#">Level 3</a></li>
+                  <li><a href="#">Level 3</a></li>
+                  <li><a href="#">Level 3</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Level 2</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Link Text</a></li>
+          <li><a href="#">Link Text</a></li>
+        </ul>
+      </nav>
+      <!-- ################################################################################################ --> 
+    </header>
+  </div>
+  <!-- ################################################################################################ --> 
+  <!-- ################################################################################################ --> 
+  <!-- ################################################################################################ -->
+  <div id="pageintro" class="hoc clear">
+    <article> 
+      <!-- ################################################################################################ -->
+      <h3 class="heading">Welcome To E-Merge</h3>
+      <p>Your Own Meeting Destination</p>
+      <p class="font-x1 uppercase bold">Connect with your office colegue, family and friends.</p>
+      <footer>
+        <ul class="nospace inline pushright">
+          <li><a class="btn" href="#">Dictum aliquam</a></li>
+          <li><a class="btn inverse" href="#">Feugiat metus</a></li>
+        </ul>
+      </footer>
+      <!-- ################################################################################################ --> 
+    </article>
+  </div>
+  <!-- ################################################################################################ --> 
+</div>
+<!-- End Top Background Image Wrapper --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body --> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <h6 class="heading">Vitae imperdiet dolor</h6>
+      <p>ty</p>
+    </div>
+    <ul class="nospace group center">
+      <li class="one_quarter first">
+        <article><a href="#"><i class="icon btmspace-30 fa fa-language"></i></a>
+          <h6 class="heading font-x1">e merge</h6>
+          <p>e merge;</p>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="#"><i class="icon btmspace-30 fa fa-adjust"></i></a>
+          <h6 class="heading font-x1">op</h6>
+          <p>op;</p>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="#"><i class="icon btmspace-30 fa fa-low-vision"></i></a>
+          <h6 class="heading font-x1">Lobortis velit ac</h6>
+          <p>ui;</p>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="#"><i class="icon btmspace-30 fa fa-blind"></i></a>
+          <h6 class="heading font-x1">Lectus aliquet sit</h6>
+          <p>op;</p>
+        </article>
+      </li>
+    </ul>
+    <!-- ################################################################################################ --> 
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper bgded" style="background-image:url('images/demo/backgrounds/02.png');">
+  <div class="hoc split clear">
+    <section> 
+      <!-- ################################################################################################ -->
+      <p class="nospace font-xs">e merge</p>
+      <h6 class="heading">available in ios and android</h6>
+      <p class="btmspace-30">creating future together.</p>
+      <ul class="fa-ul">
+        <li><i class="fa-li fa fa-check-circle"></i> click to view our resources</li>
+        <li><i class="fa-li fa fa-check-circle"></i> connect with us</li>
+        <li><i class="fa-li fa fa-check-circle"></i> get to work</li>
+      </ul>
+      <!-- ################################################################################################ --> 
+    </section>
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <div class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <ul id="testimonials" class="nospace group">
+      <li class="one_third first">
+        <figure><img class="circle" src="images/demo/60x60.png" alt="">
+          <figcaption><strong>A.Doe</strong><br>
+            <em>Position, Company Name</em></figcaption>
+        </figure>
+        <blockquote>about us.</blockquote>
+      </li>
+      <li class="one_third">
+        <figure><img class="circle" src="images/demo/60x60.png" alt="">
+          <figcaption><strong>B.Doe</strong><br>
+            <em>Position, Company Name</em></figcaption>
+        </figure>
+        <blockquote>me.</blockquote>
+      </li>
+      <li class="one_third">
+        <figure><img class="circle" src="images/demo/60x60.png" alt="">
+          <figcaption><strong>C.Doe</strong><br>
+            <em>Position, Company Name</em></figcaption>
+        </figure>
+        <blockquote>you.</blockquote>
+      </li>
+    </ul>
+    <!-- ################################################################################################ --> 
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper coloured overlay bgded" style="background-image:url('images/demo/backgrounds/03.png');">
+  <article class="hoc cta clear"> 
+    <!-- ################################################################################################ -->
+    <h6 class="three_quarter first">sub script</h6>
+    <footer class="one_quarter"><a class="btn" href="#">Ullamcorper augue &raquo;</a></footer>
+    <!-- ################################################################################################ --> 
+  </article>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <h6 class="heading">emerge</h6>
+      <p>you </p>
+    </div>
+    <div class="group latest">
+      <article class="one_third first">
+        <figure><a href="#"><img src="images/demo/320x220.png" alt=""></a>
+          <figcaption>
+            <time datetime="2045-04-06T08:15+00:00"><strong>06</strong> <em>Apr</em></time>
+          </figcaption>
+        </figure>
+        <div class="txtwrap">
+          <h4 class="heading">yuo</h4>
+          <ul class="nospace meta">
+            <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+            <li><i class="fa fa-tag"></i> <a href="#">Category Name</a></li>
+          </ul>
+          <p>ur;</p>
+          <footer><a href="#">Read More &raquo;</a></footer>
+        </div>
+      </article>
+      <article class="one_third">
+        <figure><a href="#"><img src="images/demo/320x220.png" alt=""></a>
+          <figcaption>
+            <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em></time>
+          </figcaption>
+        </figure>
+        <div class="txtwrap">
+          <h4 class="heading">op</h4>
+          <ul class="nospace meta">
+            <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+            <li><i class="fa fa-tag"></i> <a href="#">Category Name</a></li>
+          </ul>
+          <p>;</p>to
+          <footer><a href="#">Read More &raquo;</a></footer>
+        </div>
+      </article>
+      <article class="one_third">
+        <figure><a href="#"><img src="images/demo/320x220.png" alt=""></a>
+          <figcaption>
+            <time datetime="2045-04-04T08:15+00:00"><strong>04</strong> <em>Apr</em></time>
+          </figcaption>
+        </figure>
+        <div class="txtwrap">
+          <h4 class="heading">we</h4>
+          <ul class="nospace meta">
+            <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+            <li><i class="fa fa-tag"></i> <a href="#">Category Name</a></li>
+          </ul>
+          <p>;</p>
+          <footer><a href="#">Read More &raquo;</a></footer>
+        </div>
+      </article>
+    </div>
+    <!-- ################################################################################################ --> 
+  </section>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper overlay bgded" style="background-image:url('images/demo/backgrounds/04.png');">
+  <div id="ctdetails" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="nospace group">
+      <li class="one_third first"><i class="fa fa-map-marker"></i>
+        <p>Our Location</p>
+        <p><a href="#"></a></p>
+      </li>
+      <li class="one_third"><i class="fa fa-phone"></i>
+        <p>Call us</p>
+        <p>+91 7531901906</p>
+      </li>
+      <li class="one_third"><i class="fa fa-envelope-o"></i>
+        <p>Email us</p>
+        <p></p>
+      </li>
+    </ul>
+    <!-- ################################################################################################ --> 
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_quarter first">
+      <h6 class="heading">Pcomspace</h6>
+      <p>.</p>
+      <p>.</p>
+    </div>
+    <div class="one_quarter">
+      <h6 class="heading">connect</h6>
+      <nav>
+        <ul class="nospace">
+          <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Terms</a></li>
+          <li><a href="#">Privacy</a></li>
+          <li><a href="#">Cookies</a></li>
+          <li><a href="#">Disclaimer</a></li>
+        </ul>
+      </nav>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="faicon-dribble" href="#"><i class="fa fa-dribbble"></i></a></li>
+        <li><a class="faicon-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+        <li><a class="faicon-google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+        <li><a class="faicon-vk" href="#"><i class="fa fa-vk"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_quarter">
+      <h6 class="heading">Elit malesuada ut</h6>
+      <article>
+        <h2 class="nospace font-x1"><a href="#">Ac quis interdum</a></h2>
+        <time class="font-xs" datetime="2045-04-06">Friday, 6<sup>th</sup> April 2045</time>
+        <p>talk.</p>
+      </article>
+    </div>
+    <div class="one_quarter">
+      <h6 class="heading">user id</h6>
+      <ul class="nospace linklist">
+        <li><a href="#">insert name</a></li>
+        <li><a href="#">email id</a></li>
+        <li><a href="#">phone no,,.a></li>
+        <li><a href="#">adress</a></li>
+      </ul>
+    </div>
+    <!-- ################################################################################################ --> 
+  </footer>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2020S - All Rights Reserved - <a href="#">.st</a></p>
+    <!-- ################################################################################################ --> 
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a> 
+<!-- JAVASCRIPTS --> 
+<script src="layout/scripts/jquery.min.js"></script> 
+<script src="layout/scripts/jquery.backtotop.js"></script> 
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
